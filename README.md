@@ -1,3 +1,4 @@
+# yii2_mimie
 Yii 2 Advanced Project Template
 ===============================
 
